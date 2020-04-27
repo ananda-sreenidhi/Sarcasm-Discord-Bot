@@ -18,4 +18,4 @@ async def unload(ctx, extension):
 for extension in initial_extensions:
     client.load_extension(extension)
 
-client.run(token
+client.run(token)
