@@ -8,7 +8,7 @@ Then, go to [Discord Developers](https://discordapp.com/developers/applications/
 
 Get the bot's token and paste in a file called `token.txt` stored in the same location as `bot.py`. 
 
-Then go to OAuth2 and select "bot" and copy the URL generated, then paste in your browser. Select the server you want to add it to and authorise. You should be good to go!
+Then go to OAuth2 and select "bot" and copy the URL generated, then paste in your browser. Select the server you want to add it to and click "authorize". You should be good to go!
 
 Once the bot is in your server, you can call it using:
 
